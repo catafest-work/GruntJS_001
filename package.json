@@ -1,0 +1,26 @@
+{
+  "name": "gruntjs_001",
+  "version": "1.0.0",
+  "description": "a simple example with GruntJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "catafest",
+    "catafest-work",
+    "javascript",
+    "gruntjs",
+    "example",
+    "test"
+  ],
+  "author": "catafest",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-concat": "^2.1.0",
+    "grunt-sass": "^3.1.0",
+    "node-sass": "^9.0.0",
+    "sass": "^1.62.1"
+  }
+}
